@@ -22,7 +22,7 @@
             android:enabled="true"
             android:exported="true">
             <intent-filter android:priority="100">
-                <action android:name="ysn.com.broadcastreceiverdemo.TestReceiver"/>
+                <action android:name="general"/>
             </intent-filter>
 
         </receiver>
